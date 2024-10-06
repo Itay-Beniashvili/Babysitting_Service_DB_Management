@@ -1,5 +1,5 @@
-# Portfolio
-Itay Beniashvili - Portfolio
+# DB Management Project
+Itay Beniashvili - Babysitting Service DB Menagement
 
 Babysitting Service DB Menagement - As part of my studies, I designed and developed a database management system for a babysitting service.
 The project involved creating an Entity-Relationship Diagram (ERD) with at least six entities, building a relational database in MySQL, and inserting sample data.
